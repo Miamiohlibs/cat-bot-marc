@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>820196_61298944</transaction>
+  <expiration>2017-11-17T11:04:53-08:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:e0000000-0000-0000-0000-000000820196</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Lord of the Rings</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chance, Jane; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University Press of Kentucky</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">820196</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:e0000000-0000-0000-0000-000000820196</resource>
+      <permissions>
+        <display>
+          <duration>604799</duration>
+        </display>
+        <excerpt>
+          <duration>604799</duration>
+          <count initial="37" max="37" incrementInterval="16345"/>
+        </excerpt>
+        <print>
+          <duration>604799</duration>
+          <count initial="73" max="73" incrementInterval="8284"/>
+        </print>
+        <play>
+          <duration>604799</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>I166RFeqxKTKKP7ZHqcmmeaatt8=</hmac>
+</fulfillmentToken>
